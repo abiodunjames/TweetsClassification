@@ -7,6 +7,7 @@ from nltk.stem.snowball import SnowballStemmer
 import numpy as np
 from sklearn.metrics import f1_score
 import torch
+import time
 
 demoji.download_codes()
 tok = English()
