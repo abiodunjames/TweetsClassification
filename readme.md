@@ -1,9 +1,9 @@
 # Udacity Capstone Project 
 # Machine Learning Nanodegree 2020
 
-This directory contain all code that was used for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Program. 
+This repository contains all code that was used for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Program. 
 
-The folder [Notebooks](notebooks/) contains all of the Jupyter Notebooks used in the project. 
+The folder [Notebooks](notebooks/) contains all Jupyter Notebooks used in the project. 
 
 The links to the project proposal and the write-up of the final 
 project can be found in the following directories.
