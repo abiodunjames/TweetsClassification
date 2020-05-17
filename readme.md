@@ -18,5 +18,5 @@ Additionally you will find:
 ### Library
 
 * [Tweepy](https://www.tweepy.org/): A library for accessing and interacting with Twitter API
-* [Spacy](https://spacy.io) : A natural text processing library
+* [Spacy](https://spacy.io) : A text processing library
 * [Demoji](https://pypi.org/project/demoji/) : A library for removing and replacing emojis in text strings
