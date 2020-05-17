@@ -1,4 +1,22 @@
-### ABSTRACT
+# Udacity Capstone Project 
+# Machine Learning Nanodegree 2020
 
-Machine learning is a branch of artificial intelligence concerned with the creation and study of systems that can learn from data. A machine learning system could be trained to distinguish between spam and non-spam (ham) tweets on the Twitter platform. I aim to employ a text categorization technique to classify content on tweets. 
-Machine learning is a branch of artificial intelligence concerned with the creation and study of systems that can learn from data. A machine learning system could be trained to distinguish between spam and non-spam (ham) tweets on the Twitter platform. I aim to employ a text categorization technique to classify content on tweets. 
+This directory contain all code that was used for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Program. 
+
+The folder [Notebooks](notebooks/) contains all of the Jupyter Notebooks used in the project. 
+
+The links to the project proposal and the write-up of the final 
+project can be found in the following directories.
+
+* The project  proposal: [proposal/roposal.pdf](proposal/proposal.pdf) 
+* The final report: [report/report.pdf](Report/Report.pdf) 
+
+Additionally you will find: 
+
+* [Tweet Datasets](/data)- The tweet datasets used for this project. 
+
+### Library
+
+* [Tweepy](https://www.tweepy.org/): A library for accessing and interacting with Twitter API
+* [Spacy](https://spacy.io) : A natural text processing library
+* [Demoji](https://pypi.org/project/demoji/) : A library for removing and replacing emojis in text strings
